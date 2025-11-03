@@ -1,4 +1,4 @@
-# Credit Risk Prediction - Example Repo
+# Credit Risk Prediction 
 
 This repository contains an end-to-end example for a credit risk prediction pipeline:
 
